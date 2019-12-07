@@ -12,4 +12,5 @@
     text-indent: 20px;
     text-decoration: underline auto;
     text-decoration-color: orangered;
+    background: radial-gradient(green,white,red,white,green);
 }
